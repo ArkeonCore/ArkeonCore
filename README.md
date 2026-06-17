@@ -22,7 +22,8 @@ Arkeon Core is a custom-engineered Bitcoin validation infrastructure built from 
 
 *Below is the real-time simulation of the protocol validation engine running on the local network visualizer:*
 
-![Arkeon Core 3D Mempool Visualizer](https://www.youtube.com/watch?v=95U-C3geV6o)
+![Arkeon Core 3D Mempool Visualizer]
+https://www.youtube.com/watch?v=95U-C3geV6o
 
 ---
 
